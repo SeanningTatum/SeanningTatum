@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Freelance Fullstack Developer that has worked and released apps with numerous startups and businesses from UK, Australia, New Zealean, Singapore, Chin and Philippines.
+
+🔭 Techstack
+- React
+- React Native / Flutter
+- Typescript 
+- NodeJS / Express
+- GraphQL / Apollo
+- Google App Engine 
