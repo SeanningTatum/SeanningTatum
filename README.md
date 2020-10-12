@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Freelance Fullstack Developer that has worked and released apps with numerous startups and businesses from UK, Australia, New Zealeand, Singapore, Chin and Philippines.
+Freelance Fullstack Developer that has worked and released apps with numerous startups and businesses from UK, Australia, New Zealand, Singapore, China and Philippines.
 
 🔭 Techstack
 - React
