@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Freelance Fullstack Developer that has worked and released apps with numerous startups and businesses from UK, Australia, New Zealand, Singapore, China and Philippines.
+Freelance Fullstack Developer that has worked and released apps with numerous startups and businesses from UK, Australia, New Zealand, Singapore, China and Philippines. I am also the co-founder of React Cebu and a core member of Google Developer Group Cebu as a speaker on Flutter.
 
 🔭 Techstack
 - React
