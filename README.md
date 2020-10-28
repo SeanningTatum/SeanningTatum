@@ -1,4 +1,4 @@
-### Why hello there 👋
+## Why hello there 👋
 
 <!--
 **SeanningTatum/SeanningTatum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Freelance Fullstack Developer that has worked and released apps with numerous startups and businesses from UK, Australia, New Zealand, Singapore, China and Philippines. I am also the co-founder of React Cebu and a core member of Google Developer Group Cebu as a speaker on Flutter.
 
-🔭 Techstack
+### 🔭 Techstack
 - React
 - React Native / Flutter
 - Typescript 
