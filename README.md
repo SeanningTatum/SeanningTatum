@@ -59,3 +59,6 @@ Freelance Fullstack Developer that has worked and released apps with numerous st
 
 ### Webapps That I've Worked on
 - Yelsa (New Zealand) - https://yelsa.co.nz/
+- KGS Buildings (MA, USA) - https://clockworks.kgsbuildings.com/Home.aspx
+- Shoretrade (Australia) - https://www.shoretrade.com/
+- Others are hidden due to NDA
