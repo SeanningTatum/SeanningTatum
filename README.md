@@ -26,19 +26,36 @@ Freelance Fullstack Developer that has worked and released apps with numerous st
 - NoSQL
 - Google App Engine 
 
-### Apps that I've posted on the App store
-- Zemedy(UK, London) - https://apps.apple.com/gb/app/zemedy-ibs-gut-relief/id1442789941
-- Zemy (UK, London) - https://apps.apple.com/gb/app/zemy-childrens-tummy-relief/id1497659477
-- Yelsa (New Zealand) - https://apps.apple.com/ph/app/yelsa/id1491482377
-- ShoreTrade Buyer (Australia) - https://apps.apple.com/us/app/shoretrade-buyer/id1460087124
-- ShoreTrade Seller (Australia) - https://apps.apple.com/us/app/shoretrade-seller/id1460087449
-- Asia Car Rider (China) - https://apps.apple.com/ph/app/asia-car-rider/id1395827754
-- Asia Car Driver (China) - https://apps.apple.com/us/app/asia-car-driver/id1352184632
+### Apps that I've posted on the App Store / Play Store
 
-### Websites That I've worked on
+- Zemedy(UK, London) 
+  - iOS - https://apps.apple.com/gb/app/zemedy-ibs-gut-relief/id1442789941
+  - Android - https://play.google.com/store/apps/details?id=com.zemedyApp&hl=en&gl=US
+- Zemy (UK, London) 
+  - iOS - https://apps.apple.com/gb/app/zemy-childrens-tummy-relief/id1497659477
+- Yelsa (New Zealand) 
+  - iOS - https://apps.apple.com/ph/app/yelsa/id1491482377
+  - Android - https://play.google.com/store/apps/details?id=com.yelsa&hl=en&gl=US
+- ShoreTrade Buyer (Australia) 
+  - iOS - https://apps.apple.com/us/app/shoretrade-buyer/id1460087124
+  - Android - https://play.google.com/store/apps/details?id=com.shoretradeapp.buyer&hl=en_US&gl=US
+- ShoreTrade Seller (Australia) 
+  - iOS - https://apps.apple.com/us/app/shoretrade-seller/id1460087449
+  - Android - https://play.google.com/store/apps/details?id=com.shoretradeapp.seller&hl=en_US&gl=US
+- Asia Car Rider (China) 
+  - iOS - https://apps.apple.com/ph/app/asia-car-rider/id1395827754
+  - Android - https://play.google.com/store/apps/details?id=asiacarservice.rider&hl=en_US&gl=US
+- Asia Car Driver (China) 
+  - iOS - https://apps.apple.com/us/app/asia-car-driver/id1352184632
+  - Android - https://play.google.com/store/apps/details?id=asiacarservice.driver&hl=en&gl=US
 
+
+### Websites That I've worked on 
 - Abstract(Philippines) - https://www.abstract.ph/
 - Spenmo (Singapore) - https://spenmo.com/
 - Bold Health (UK, London) - https://www.bold.health/
 - Zemedy (UK, London) - https://www.zemedy.com/
 - Snowball (New Zealand) - https://snowball-x.com/
+
+### Webapps That I've Worked on
+- Yelsa (New Zealand) - https://yelsa.co.nz/
