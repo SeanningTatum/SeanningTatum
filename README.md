@@ -29,7 +29,9 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - Google App Engine 
 
 ### Apps that I've posted on the App Store / Play Store
-
+- Hubble(Singapore) 
+  - iOS - https://apps.apple.com/sg/app/hubble-app/id1513176880
+  - Android - https://play.google.com/store/apps/details?id=sg.hubble.platform&hl=en&gl=US
 - Zemedy(UK, London) 
   - iOS - https://apps.apple.com/gb/app/zemedy-ibs-gut-relief/id1442789941
   - Android - https://play.google.com/store/apps/details?id=com.zemedyApp&hl=en&gl=US
