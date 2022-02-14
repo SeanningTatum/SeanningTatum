@@ -62,6 +62,8 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - Snowball (New Zealand) - https://snowball-x.com/
 
 ### Webapps That I've Worked on
+- Jobmaker (Netherlands) - https://www.jobmaker.fr/
+- Hubble (Singapore) - https://hubble.build/
 - Yelsa (New Zealand) - https://yelsa.co.nz/
 - KGS Buildings (MA, USA) - https://clockworks.kgsbuildings.com/Home.aspx
 - Shoretrade (Australia) - https://www.shoretrade.com/
