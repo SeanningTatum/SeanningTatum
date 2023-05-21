@@ -27,8 +27,12 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - GraphQL / Apollo
 - NoSQL
 - Google App Engine 
+- Rust 🦀
 
-### Apps that I've posted on the App Store / Play Store
+### Personal Projects / Learnings
+Looking to fill this out soon :) 
+
+### (Client Work) Apps that I've posted on the App Store / Play Store
 - Hubble(Singapore) 
   - iOS - https://apps.apple.com/sg/app/hubble-app/id1513176880
   - Android - https://play.google.com/store/apps/details?id=sg.hubble.platform&hl=en&gl=US
@@ -54,14 +58,14 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
   - Android - https://play.google.com/store/apps/details?id=asiacarservice.driver&hl=en&gl=US
 
 
-### Websites That I've worked on 
+### (Client Work) Websites That I've worked on 
 - Abstract(Philippines) - https://www.abstract.ph/
 - Spenmo (Singapore) - https://spenmo.com/
 - Bold Health (UK, London) - https://www.bold.health/
 - Zemedy (UK, London) - https://www.zemedy.com/
 - Snowball (New Zealand) - https://snowball-x.com/
 
-### Webapps That I've Worked on
+### (Client Work) Webapps That I've Worked on
 - Jobmaker (Netherlands) - https://www.jobmaker.fr/
 - Hubble (Singapore) - https://hubble.build/
 - Yelsa (New Zealand) - https://yelsa.co.nz/
