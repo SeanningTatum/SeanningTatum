@@ -30,7 +30,7 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - Rust 🦀
 
 ### Personal Projects / Learnings
-Looking to fill this out soon :) 
+- Herman ([repo](https://github.com/SeanningTatum/herman)) - A rusty daemon / script that re-arranges files for you 
 
 ### (Client Work) Apps that I've posted on the App Store / Play Store
 - Hubble(Singapore) 
