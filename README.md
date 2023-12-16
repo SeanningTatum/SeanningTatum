@@ -28,9 +28,10 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - NoSQL
 - Google App Engine 
 - Rust 🦀
-
+<!---
 ### Personal Projects / Learnings
 - Herman ([repo](https://github.com/SeanningTatum/herman)) - A rusty daemon / script that re-arranges files for you 
+--->
 
 ### (Client Work) Apps that I've posted on the App Store / Play Store
 - Hubble(Singapore) 
