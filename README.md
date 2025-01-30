@@ -34,6 +34,9 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 --->
 
 ### (Client Work) Apps that I've posted on the App Store / Play Store
+- Recordbook
+  - iOS - Coming Soon!
+  - Android - Coming Soon!   
 - Hubble(Singapore) 
   - iOS - https://apps.apple.com/sg/app/hubble-app/id1513176880
   - Android - https://play.google.com/store/apps/details?id=sg.hubble.platform&hl=en&gl=US
