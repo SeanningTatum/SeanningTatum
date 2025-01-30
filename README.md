@@ -60,6 +60,7 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 
 
 ### (Client Work) Websites That I've worked on 
+- Scriptrank (USA) - https://scriptrank.io/
 - Abstract(Philippines) - https://www.abstract.ph/
 - Spenmo (Singapore) - https://spenmo.com/
 - Bold Health (UK, London) - https://www.bold.health/
@@ -67,6 +68,8 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - Snowball (New Zealand) - https://snowball-x.com/
 
 ### (Client Work) Webapps That I've Worked on
+- Scriptrank (USA) - https://scriptrank.io/
+- Excel Dictionary (USA) - https://excel-dictionary-data-cleaner.vercel.app/
 - Jobmaker (Netherlands) - https://www.jobmaker.fr/
 - Hubble (Singapore) - https://hubble.build/
 - Yelsa (New Zealand) - https://yelsa.co.nz/
