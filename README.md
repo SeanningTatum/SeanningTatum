@@ -71,7 +71,7 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - Snowball (New Zealand) - https://snowball-x.com/
 
 ### (Client Work) Webapps That I've Worked on
-- Scriptrank (USA) - https://scriptrank.io/
+- Scriptrank (USA) - https://app.scriptrank.io/
 - Excel Dictionary (USA) - https://excel-dictionary-data-cleaner.vercel.app/
 - Jobmaker (Netherlands) - https://www.jobmaker.fr/
 - Hubble (Singapore) - https://hubble.build/
