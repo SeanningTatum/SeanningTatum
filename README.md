@@ -24,8 +24,10 @@ Visit my website here: [seanurgel.dev](https://seanurgel.dev)
 - React Native / Flutter
 - Typescript 
 - NodeJS / Express
-- GraphQL / Apollo
-- NoSQL
+- tRPC
+- React Query
+- Prisma / Drizzle
+- PSQL / noSQL
 - Google App Engine 
 - Rust 🦀
 <!---
